@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "906049938854",
+    "project_id": "reichan-64137",
+    "storage_bucket": "reichan-64137.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906049938854:android:07f9a3905cbc4fb6cadb67",
+        "android_client_info": {
+          "package_name": "com.example.reichan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906049938854-ksjgusktve30qkmtn2f8035bnsue3gk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxMpqDf3PJ8t8fchvVFgPax6KaL0CzwJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906049938854-ksjgusktve30qkmtn2f8035bnsue3gk9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "906049938854-2dbksedvp67d9a1os500qpu1dtpaspdn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.reichan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
